@@ -68,9 +68,16 @@ The [**Music Blocks v4**](https://github.com/sugarlabs/musicblocks-v4) project i
 
 ## Work Summary
 
+Code can be found in branch [gsoc-2024/week-11-12](https://github.com/sugarlabs/musicblocks-v4/tree/gsoc-2024/week-11-12/modules/masonry).
+Commits can be found [here](https://github.com/sugarlabs/musicblocks-v4/compare/develop...gsoc-2024/week-11-12).
 
+## Pull Requests
 
-Also, don’t forget to drop a star on the project GitHub repo! ⭐
-Link: [https://github.com/sugarlabs/musicblocks-v4](https://github.com/sugarlabs/musicblocks-v4)
-
-You can connect with me on [LinkedIn](https://www.linkedin.com/in/niloysikdar). Additionally, you can follow me on [GitHub](https://github.com/niloysikdar) and [Twitter](https://twitter.com/niloysikdar_), it will be appreciated.
+| Title                                                                                                    | Link                                                         | Lines of Code Changed |
+| -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------ | --------------------- |
+| Add design document for Masonry (previously Project-builder/code-builder)                                | [#404](https://github.com/sugarlabs/musicblocks-v4/pull/404) | `+1,475  −0`          |
+| docs(masonry): add PRD and DFD                                                                           | [#408](https://github.com/sugarlabs/musicblocks-v4/pull/408) | `+972  −0`            |
+| feat(masonry): create tech-spec and add demo workspace and render stack of bricks                        | [#409](https://github.com/sugarlabs/musicblocks-v4/pull/409) | `+4,716 −513`         |
+| feat(masonry): create tree for the stack of bricks                                                       | [#410](https://github.com/sugarlabs/musicblocks-v4/pull/410) | `1,554 −276`          |
+| feat(masonry) : Fix errors in Brick and render storybook                                                 | [#411](https://github.com/sugarlabs/musicblocks-v4/pull/411) | `+2,318 −29`          |
+| feat(masonry) : Render dummy Stack of Bricks                                                             | [#412](https://github.com/sugarlabs/musicblocks-v4/pull/412) | `+1,818 −4,806`       |
