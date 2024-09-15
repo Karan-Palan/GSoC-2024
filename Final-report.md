@@ -57,12 +57,19 @@ The [**Music Blocks v4**](https://github.com/sugarlabs/musicblocks-v4) project i
 
 ## GSoC Blogs
 
-- [GSoC 2024 with Sugar Labs | Week 1 and 2 | Music Blocks (v4) project updates](https://musicblocks.net/2024/06/19/gsoc-2024-with-sugar-labs-community-bonding-week-1-2-music-blocks-v4-project-updates/)
+- [GSoC 2024 with Sugar Labs | Week 1 and 2 | Music Blocks (v4) project updates](https://www.youtube.com/watch?v=PeIS3gXPFj0)
 - [GSoC 2024 with Sugar Labs | Week 3 and 4 | Music Blocks (v4) project updates](https://musicblocks.net/2024/06/27/gsoc-2024-with-sugar-labs-week-3-4-music-blocks-v4-project-updates/)
 - [GSoC 2024 with Sugar Labs | Week 5 and 6 | Music Blocks (v4) project updates](https://musicblocks.net/2024/07/11/gsoc-2024-with-sugar-labs-week-5-6-music-blocks-v4-project-updates/)
 - [GSoC 2024 with Sugar Labs | Week 7,8 and 9 | Music Blocks (v4) project updates](https://musicblocks.net/2024/07/30/gsoc-2024-with-sugar-labs-week-78-9-music-blocks-v4-project-updates/)
 - [GSoC 2024 with Sugar Labs | Week 10 and 11 | Music Blocks (v4) project updates](https://musicblocks.net/2024/09/06/gsoc-2024-with-sugar-labs-week-10-and-11-music-blocks-v4-project-updates/)
     
+
+<br />
+
+## YouTube Streams
+
+- [GSoC+DMP contributors initial check-in 1 of 2: Music Blocks projects](https://www.youtube.com/live/PeIS3gXPFj0?si=6ANGqYKI07T1xgun&t=2366)
+- [GSoC+DMP contributors final presentation: Music Blocks and Sugar projects](https://www.youtube.com/live/0yMqz3GW3rY?si=Rionjb9AH0BMY4ux&t=3328)
 
 <br />
 
