@@ -23,7 +23,7 @@
 &#8226; Musicblocks.net - <a href="https://musicblocks.net/author/karanpalan007/" target="_blank">karanpalan007</a><br />
 </td>
 <td>
-<a href="https://github.com/karan-palan"><img src="https://media.licdn.com/dms/image/v2/D5603AQFd4DwGD9a1Ig/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1718489510177?e=1730937600&v=beta&t=DDGAvTzZSVJQVJjI5ZnCR8wO4qtnGLGjd01vKmxx_IU" height="250px" width="250px;" alt=""/></a>
+<a href="https://github.com/karan-palan"><img src="https://pbs.twimg.com/profile_images/1865732993819488256/puVpvwsq_400x400.jpg" height="250px" width="250px;" alt=""/></a>
 </td>
 </tr>
 </table>
