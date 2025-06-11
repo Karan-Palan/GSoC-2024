@@ -143,8 +143,9 @@ By creating this test environment, I was able to validate the usability and perf
 | feat(masonry) : Render dummy Stack of Bricks                                                             | [#412](https://github.com/sugarlabs/musicblocks-v4/pull/412) | `+1,818 −4,806`       |
 
 
-Code can be found in branch [gsoc-2024/week-11-12](https://github.com/sugarlabs/musicblocks-v4/tree/gsoc-2024/week-11-12/modules/masonry).
-Commits can be found [here](https://github.com/sugarlabs/musicblocks-v4/compare/develop...gsoc-2024/week-11-12).
+Merged work - https://github.com/sugarlabs/musicblocks-v4/pull/434.
+
+Code can be found [here](https://github.com/sugarlabs/musicblocks-v4/tree/develop/modules/masonry).
 
 ## **Conclusion**
 
